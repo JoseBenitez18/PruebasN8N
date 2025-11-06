@@ -1,0 +1,30 @@
+--- CEDULA ---
+
+JULIO CESAR MUNERA RAIGOSA
+ARQUITECTO DE SOLUCION
+EXPERIENCIA LABORAL
+Empresa ARIA PSW SAS
+Cargo 
+Arquitecto de datos
+Fecha 
+2018/Octubre - Dic- 2024
+Co 
+• Revisión y detalla miento de procesos, implementación de reglas,
+recomendaciones y todas aquellas relacionadas con diseño y desarrollo
+de arquitecturas basadas en tecnologías IoT, Big Data y nube pública,
+evidenciando una comprensión profunda de las tecnologías de software,
+patrones de diseño, buenas prácticas de desarrollo, principios de
+seguridad desde el diseño, y la capacidad de identificar y mitigar
+vulnerabilidades comunes, incluyendo las del OWASP Top 10.
+Supervisión de procesos ETL
+Coordina la extracción, transformación y carga de datos entre sistemas y
+plataformas.
+Empresa 
+MVM Ingeniería de Software –
+Cargo 
+Plataforma interna tecnológica - Rol: Arquitecto Consultor
+Fecha 
+(2016/Enero – 2018/Noviembre)
+Responsabilidad 
+• Implementación y diseño de soluciones acorde con las necesidades
+analizadas. Windows Azure, Microsoft. 
